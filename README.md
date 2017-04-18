@@ -21,3 +21,7 @@ This repository has fully unrolled implementations of the following ciphers in V
 ## Further Reading
 
 These ciphers were analyzed and compared in the paper "Single-Cycle Implementations of Block Ciphers", available at https://eprint.iacr.org/2015/658.pdf.
+
+## Acknowledgements
+
+This work was supported in part by the Research Council KU Leuven: GOA TENSE (GOA/11/007). In addition, this work is supported in part by the Flemish Government through FWO G.0130.13N and FWO G.0876.14N. We would like to thank Kimmo Järvinen for his valued advice. Pieter Maene is supported by a doctoral grant of the Research Foundation - Flanders (FWO).
